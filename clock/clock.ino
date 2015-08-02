@@ -2,14 +2,15 @@
 
 CIRCADIAN CLOCK project by Anais Moisy
 
-Arduino Yun
-Stepper motor
-Motor shield
-NeoPixel Ring
+Requirements:
+- Arduino Yun
+- Stepper motor
+- Motor shield
+- NeoPixel Ring
 
 Demo & Details @
-https://player.vimeo.com/video/127464892
-http://anaismoisy.com/essay-cardican-clock/
+- https://player.vimeo.com/video/127464892
+- http://anaismoisy.com/essay-cardican-clock/
 
 *************************************************************/
 
